@@ -32,7 +32,7 @@ public class Garage {
     
     @Override
     public String toString(){
-        return name + " ("+cars+")";
+        return name + " antal ("+cars+")";
     }
     
 }
